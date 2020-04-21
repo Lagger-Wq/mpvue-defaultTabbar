@@ -1,0 +1,45 @@
+
+.tabbar-wrap.data-v-1269310c {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 92rpx;
+  width: 100%;
+  padding-top: 6rpx;
+  box-shadow: 0 0 4rpx #c4c4c4;
+}
+.isIphoneX.data-v-1269310c {
+  padding-bottom: 66rpx;
+}
+.tabbar.data-v-1269310c {
+  display: flex;
+}
+.tabbar-item.data-v-1269310c {
+  flex: 1;
+}
+.tabbar-icon.data-v-1269310c {
+  height: 56rpx;
+  text-align: center;
+  position: relative;
+}
+.tabbar-icon ._img.data-v-1269310c {
+  width: 56rpx;
+  height: 56rpx;
+}
+.imgSpecial.data-v-1269310c {
+  width: 168rpx;
+  height: 168rpx;
+}
+.tabbar-text.data-v-1269310c {
+  text-align: center;
+  line-height: 36rpx;
+  color: #979795;
+  font-size: 22rpx;
+}
+.active.data-v-1269310c {
+  color: #45b7af;
+}
+.tabbar-text.data-v-1269310c {
+  position: relative;
+  bottom: 0;
+}

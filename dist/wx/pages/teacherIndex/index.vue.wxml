@@ -1,0 +1,5 @@
+<import src="/components/tabBar.vue.wxml" /><template name="8ed6c370">
+  <view style="height:500px" class="_div data-v-5215d099">
+    <view class="_h1 data-v-5215d099">教师首页</view> <template data="{{...$root[$kk+'0'], $root}}" is="0cf29d0a"></template>
+  </view>
+</template>

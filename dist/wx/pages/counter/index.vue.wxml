@@ -1,0 +1,5 @@
+<import src="/components/tabBar.vue.wxml" /><template name="7bed98c0">
+  <view class="_div data-v-9ab55c2e">
+    <view class="_h1 data-v-9ab55c2e">我的</view> <button bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_button data-v-9ab55c2e">{{type == 'teacher' ? '切换至学生端' : '切换至老师端'}}</button> <template data="{{...$root[$kk+'0'], $root}}" is="0cf29d0a"></template>
+  </view>
+</template>

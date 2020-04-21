@@ -1,0 +1,5 @@
+<import src="/components/tabBar.vue.wxml" /><template name="59332db2">
+  <view class="_div data-v-6b1a9f78">
+    <view class="_h1 data-v-6b1a9f78">订单</view> <template data="{{...$root[$kk+'0'], $root}}" is="0cf29d0a"></template>
+  </view>
+</template>
